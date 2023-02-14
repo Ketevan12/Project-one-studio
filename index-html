@@ -1,0 +1,13 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="mystyle.css">
+  </head>
+  <body>
+    <div id="scroll-container">
+        <div id="scroll-text">This is scrolling text.<div>
+      </div>
+    <!-- Insert the content of your page here -->
+  </body>
+</html>
